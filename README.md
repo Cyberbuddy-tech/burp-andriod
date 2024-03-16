@@ -45,3 +45,15 @@
 1. Run certy.py
 2. Run phssl.py
 Enter your choice:</code></pre>
+<h1>Disclaimer:</h1>
+
+The information provided in this script and associated documentation is for educational purposes only. The use of this script for any unauthorized or malicious activities is strictly prohibited. The author shall not be liable for any damages or legal consequences arising from the misuse of this script.
+
+Use this script responsibly and only on devices and networks that you are authorized to test. Always obtain proper authorization before performing any security testing activities. By using this script, you agree to take full responsibility for your actions and to use it in compliance with applicable laws and regulations.
+
+The author does not endorse or encourage illegal or unethical activities, including but not limited to hacking, cracking, or unauthorized access to computer systems or networks. Any actions taken using this script are solely the responsibility of the user.
+
+This script is provided as-is, without any warranty or guarantee of its suitability or effectiveness for any particular purpose. The author makes no representations or warranties regarding the accuracy, reliability, or completeness of the information provided herein.
+
+By using this script, you acknowledge that you have read, understood, and agree to abide by the terms of this disclaimer.
+
